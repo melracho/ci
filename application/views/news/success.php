@@ -1,0 +1,1 @@
+<p>You've entered a news item</p>
